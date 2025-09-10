@@ -100,5 +100,21 @@ h1{
 .h2d{
     padding: 20px;
 }
+#Experience{
+    background-color: rgb(185, 247, 226);
+}
+.expcard h3{
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+.expcard{
+    width: 90%;
+    background-color: rgb(196, 196, 134);
+    margin-left: 5%;
+    padding: 25px;
+    border-radius: 5px;
+    border: 1px solid;
+}
+
 
 
